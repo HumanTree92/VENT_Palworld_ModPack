@@ -9,6 +9,13 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 5) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
 6) Once you have Exited Palworld relaunch the Game & Join the Server.
 
+# List of Current Mods:
+* [RE-UE4SS 2.5.2]( https://github.com/UE4SS-RE/RE-UE4SS/releases ) - Needed to Run Script Mods - Clientsided
+* [Visible Pal Capture Counter]( https://www.nexusmods.com/palworld/mods/190 ) - Shows next to the pals' name how many times it has been captured - Clientsided
+* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 ) - Displays info about wild Pals in the Top Left - Clientsided
+* [Basic Minimap]( https://www.nexusmods.com/palworld/mods/146 ) - A Basic Configurable Minimap in the Bottom Right - Clientsided
+* [Increased mount speed]( https://www.nexusmods.com/palworld/mods/226 ) - This mod increases the sprint speed of mounts to 3300 - Clientsided & Serversided
+
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
 * [Website]( https://velocitientertainment.com )
