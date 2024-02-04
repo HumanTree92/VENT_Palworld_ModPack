@@ -1,0 +1,56 @@
+
+# fps {integer}
+Determines the refresh rate for the minimap widget. (and camera when captall = false) 
+Higher = Uses more performance
+Default: 15
+
+# size {integer}
+Sets the size in pixels (both width and height) for the minimap widget in game.
+Default: 192
+
+# rotate {boolean}
+Should the minimap be allowed to rotate? 
+Default: false
+
+# follow {boolean}
+Should the minimap rotation follow the players camera position?
+If false, will follow the players character position instead. 
+Default: false
+
+# padding {integer}
+Sets an amount of padding around the minimap widget in game
+Default: 24
+
+# canfade {boolean}
+Allows the minimap widget to fade in/out when aiming/in-battle
+Default: true
+
+# captall {boolean}
+Determines if the minimap camera will capture all frames, or only when it moves.
+Default: true
+
+# showdir {boolean}
+Determines if the N/S/E/W labels should be shown
+Default: true
+
+# showpin {boolean}
+Should the player position marker/pin be shown?
+Default: true
+
+# pinsize {integer}
+The size in pixels (width and height) of the player position pin
+Default: 12
+
+# horz {string}
+Set the horizontal position within the player ui canvas
+Valid values are: center|right|left
+Default: left
+
+# vert {string}
+Set the vertical position within the player ui canvas
+Valid values are: center|bottom|top
+Default: top
+
+# dist {Integer}
+The target distance in game units the camera will be above the player
+Default: 42069

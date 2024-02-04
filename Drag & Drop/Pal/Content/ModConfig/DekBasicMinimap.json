@@ -1,0 +1,15 @@
+{
+    "fps": 15,
+    "size": 192,
+    "rotate": false,
+    "follow": false,
+    "padding": 24,
+    "canfade": true,
+    "captall": false, 
+    "showdir": true,
+    "showpin": true,
+    "pinsize": 24, 
+    "horz": "right",
+    "vert": "bottom",
+    "dist": 42069
+}

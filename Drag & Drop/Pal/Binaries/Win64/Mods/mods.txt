@@ -1,0 +1,2 @@
+BPModLoaderMod : 0
+VisiblePalCaptureCounter : 1
