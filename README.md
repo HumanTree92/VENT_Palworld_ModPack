@@ -1,12 +1,11 @@
 # About VENT_Palworld_ModPack
 This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 
-# Download & Installation:
+# Download & Installation of Required Mods:
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your Steam > steamapps > common > Palworld Directory.
 4) Drag & Drop all the contents of Required into the Palworld Directory.
-5) (Optional) Drag & Drop all the contents of Optional into the Palworld Directory.
 6) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
 7) Once you have Exited Palworld relaunch the Game & Join the Server.
 
@@ -14,11 +13,22 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 * [Increased mount speed]( https://www.nexusmods.com/palworld/mods/226 ) - This mod increases the sprint speed of mounts to 3300 - Clientsided & Serversided
 * [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - This mod increases the max bases to 4 & pals working at base to 40 - Clientsided & Serversided
 
+# Download & Installation of Optional Mods:
+1) Download the .zip.
+2) Extract the .zip or Open the .zip.
+3) Go to your Steam > steamapps > common > Palworld Directory.
+4) Drag & Drop all the contents of Optional into the Palworld Directory.
+5) Go to Steam > steamapps > common > Palworld > Pal > Binaries > Win64 > Mods > AutoJoin > Scripts
+6) Edit the main.lua with any .txt Editor & Change the ServerPassword = "PUT_PASSWORD_HERE"
+7) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
+8) Once you have Exited Palworld relaunch the Game & Join the Server.
+
 # List of Optional Mods:
 * [RE-UE4SS 2.5.2]( https://github.com/UE4SS-RE/RE-UE4SS/releases ) - Needed to Run Script Mods - Clientsided
 * [Visible Pal Capture Counter]( https://www.nexusmods.com/palworld/mods/190 ) - Shows next to the pals' name how many times it has been captured - Clientsided
 * [Pal Info]( https://www.nexusmods.com/palworld/mods/178 ) - Displays info about wild Pals in the Top Left - Clientsided
 * [Basic Minimap]( https://www.nexusmods.com/palworld/mods/146 ) - A Basic Configurable Minimap in the Bottom Right - Clientsided
+* [Autojoin Dedicated Server]( https://www.nexusmods.com/palworld/mods/455 ) - Allows automatically joining the VENT Palworld Server just by clicking Join Multiplayer Game
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
