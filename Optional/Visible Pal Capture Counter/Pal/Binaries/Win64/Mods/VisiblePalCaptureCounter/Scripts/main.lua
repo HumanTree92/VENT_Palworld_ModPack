@@ -173,16 +173,6 @@ RegisterHook("/Script/Engine.PlayerController:ClientRestart", function(Context)
     if not hooked then
         hooked=true
         Init()
-        ExecuteWithDelay(5000,function()
-            ExecuteInGameThread(function()
-                RegisterHook("/Game/Pal/Blueprint/UI/UserInterface/ESCMenu/WBP_MenuESC.WBP_MenuESC_C:ConfirmReturnTitle",function()
-                    capture_count = {}
-                    gauge_list = {}
-                    gauge_list_mutex = false
-                    inited=false
-                end)
-            end)
-        end)
     end
     if not inited then
         inited = true
@@ -190,4 +180,11 @@ RegisterHook("/Script/Engine.PlayerController:ClientRestart", function(Context)
             UpdatePalCaptureCount()
         end)
     end
+end)
+
+NotifyOnNewObject("/Script/Pal.PalGameModeTitle", function(CreatedObject)
+    capture_count = {}
+    gauge_list = {}
+    gauge_list_mutex = false
+    inited=false
 end)

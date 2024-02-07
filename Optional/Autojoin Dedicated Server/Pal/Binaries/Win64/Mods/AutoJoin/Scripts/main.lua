@@ -10,7 +10,7 @@ Enabled = true
 -- Your servers port, IP, and password 
 ServerPort = 8211
 ServerIP = "192.151.157.170"
-ServerPassword = ""
+ServerPassword = "PUT_PASSWORD_HERE"
 
 -----------------------------------------------
 --------- Don't touch down here ---------------

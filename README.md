@@ -10,25 +10,27 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 7) Once you have Exited Palworld relaunch the Game & Join the Server.
 
 # List of Required Mods:
-* [Increased mount speed]( https://www.nexusmods.com/palworld/mods/226 ) - This mod increases the sprint speed of mounts to 3300 - Clientsided & Serversided
-* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - This mod increases the max bases to 4 & pals working at base to 40 - Clientsided & Serversided
+* [Increased mount speed]( https://www.nexusmods.com/palworld/mods/226 ) - This mod increases the sprint speed of mounts to 3300.
+* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - This mod increases the max bases to 4 & pals working at base to 40.
 
 # Download & Installation of Optional Mods:
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your Steam > steamapps > common > Palworld Directory.
-4) Drag & Drop all the contents of Optional into the Palworld Directory.
-5) Go to Steam > steamapps > common > Palworld > Pal > Binaries > Win64 > Mods > AutoJoin > Scripts
-6) Edit the main.lua with any .txt Editor & Change the ServerPassword = "PUT_PASSWORD_HERE"
-7) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
-8) Once you have Exited Palworld relaunch the Game & Join the Server.
+4) Drag & Drop all the contents of Optional > Main into the Palworld Directory.
+5) Then Drag & Drop all the Contents of the Seperated Mods into the Palworld Directory.
+	5.1) Example: If wanting to use Basic Minimap open the Basic Minimap Folder & Drag the Pal Folder into the Palworld Directory.
+	5.2) If installing the AutoJoin Script Go to Steam > steamapps > common > Palworld > Pal > Binaries > Win64 > Mods > AutoJoin > Scripts & Edit the main.lua with any .txt Editor & Change the ServerPassword = "PUT_PASSWORD_HERE"
+6) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
+7) Once you have Exited Palworld relaunch the Game & Join the Server.
 
 # List of Optional Mods:
-* [RE-UE4SS 2.5.2]( https://github.com/UE4SS-RE/RE-UE4SS/releases ) - Needed to Run Script Mods - Clientsided
-* [Visible Pal Capture Counter]( https://www.nexusmods.com/palworld/mods/190 ) - Shows next to the pals' name how many times it has been captured - Clientsided
-* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 ) - Displays info about wild Pals in the Top Left - Clientsided
-* [Basic Minimap]( https://www.nexusmods.com/palworld/mods/146 ) - A Basic Configurable Minimap in the Bottom Right - Clientsided
-* [Autojoin Dedicated Server]( https://www.nexusmods.com/palworld/mods/455 ) - Allows automatically joining the VENT Palworld Server just by clicking Join Multiplayer Game
+* [RE-UE4SS 3.0]( https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v3.0.0 ) - Needed to Run Script Mods.
+* [Autojoin Dedicated Server]( https://www.nexusmods.com/palworld/mods/455 ) - Allows automatically joining the VENT Palworld Server just by clicking Join Multiplayer Game.
+* [Basic Minimap]( https://www.nexusmods.com/palworld/mods/146 ) - A Basic Configurable Minimap in the Bottom Right.
+* [Enhanced Palworld Visuals]( https://www.nexusmods.com/palworld/mods/1 ) - Disables a few post-processing effects & enabling a few, with an optional increase in the internal resolution of the game.
+* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 ) - Displays info about wild Pals in the Top Left.
+* [Visible Pal Capture Counter]( https://www.nexusmods.com/palworld/mods/190 ) - Shows next to the pals' name how many times it has been captured.
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
