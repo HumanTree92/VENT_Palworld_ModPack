@@ -11,7 +11,7 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 
 # List of Required Mods:
 * [Increased mount speed]( https://www.nexusmods.com/palworld/mods/226 ) - This mod increases the sprint speed of mounts to 3300.
-* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - This mod increases the max bases to 4 & pals working at base to 40.
+* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - Max Pals at Base Lvl 20 = 40 & Base Lvl 1-5 = 4 | 6-10 = 6 | 11-15 = 8 | 16-20 = 10
 
 # Download & Installation of Optional Mods:
 1) Download the .zip.
