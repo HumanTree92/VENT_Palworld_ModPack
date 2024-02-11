@@ -17,7 +17,7 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your Steam > steamapps > common > Palworld Directory.
-4) Drag & Drop all the contents of Optional > Main into the Palworld Directory.
+4) Drag & Drop all the contents of Optional > UE4SS > Main into the Palworld Directory.
 5) Then Drag & Drop all the Contents of the Seperated Mods into the Palworld Directory.
 	5.1) Example: If wanting to use Basic Minimap open the Basic Minimap Folder & Drag the Pal Folder into the Palworld Directory.
 	5.2) If installing the AutoJoin Script Go to Steam > steamapps > common > Palworld > Pal > Binaries > Win64 > Mods > AutoJoin > Scripts & Edit the main.lua with any .txt Editor & Change the ServerPassword = "PUT_PASSWORD_HERE"
@@ -28,9 +28,13 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 * [RE-UE4SS 3.0]( https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v3.0.0 ) - Needed to Run Script Mods.
 * [Autojoin Dedicated Server]( https://www.nexusmods.com/palworld/mods/455 ) - Allows automatically joining the VENT Palworld Server just by clicking Join Multiplayer Game.
 * [Basic Minimap]( https://www.nexusmods.com/palworld/mods/146 ) - A Basic Configurable Minimap in the Bottom Right.
+* [Black Iron Architecture]( https://www.nexusmods.com/palworld/mods/556 ) - Changes the textures of the Iron to a darker color & removes all the rust brown tone.
+* [Display Time Date]( https://www.nexusmods.com/palworld/mods/558 ) - Displays OS Time & In-Game Time on the Bottom Left.
 * [Enhanced Palworld Visuals]( https://www.nexusmods.com/palworld/mods/1 ) - Disables a few post-processing effects & enabling a few, with an optional increase in the internal resolution of the game.
-* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 ) - Displays info about wild Pals in the Top Left.
-* [Visible Pal Capture Counter]( https://www.nexusmods.com/palworld/mods/190 ) - Shows next to the pals' name how many times it has been captured.
+* [Map Unlocker]( https://www.nexusmods.com/palworld/mods/16 ) - Removes the Black from the Map but doesn't unlock the Fast Travel Stations.
+* [Pal Analyzer]( https://www.nexusmods.com/palworld/mods/336 ) - Displays info about Pals but looks like it was implement in-game. 
+* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 ) - Displays info about Pals but looks like it wasn't implemented in-game.
+* [Visible Pal Capture Counter]( https://www.nexusmods.com/palworld/mods/190 ) - Shows next to the Pals name how many times it has been captured.
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
