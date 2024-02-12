@@ -24,7 +24,7 @@ function DoHooks()
 			PalUtility = StaticFindObject("/Script/Pal.Default__PalUtility")
 		end
 
-		if not Player then
+		if not Player or not Player:IsValid() then
 			Player = FindFirstOf("PalPlayerCharacter")
 		end
 
@@ -32,10 +32,7 @@ function DoHooks()
 		dayIcon = StaticFindObject("/Game/Pal/Texture/UI/Main_Menu/T_icon_timezone_daytime.T_icon_timezone_daytime")
 		nightIcon = StaticFindObject("/Game/Pal/Texture/UI/Main_Menu/T_icon_timezone_night.T_icon_timezone_night")
 		WBP_Ingame_PlayerGauge_KeyGuide_C_base = "/Game/Pal/Blueprint/UI/UserInterface/InGame/PlayerGauge/WBP_Ingame_PlayerGauge_KeyGuide.WBP_Ingame_PlayerGauge_KeyGuide_C"
-		WBP_Ingame_PlayerGauge_KeyGuide_C_new = StaticConstructObject(
-			StaticFindObject(WBP_Ingame_PlayerGauge_KeyGuide_C_base), FindFirstOf("GameInstance")
-		)
-
+		WBP_Ingame_PlayerGauge_KeyGuide_C_new = StaticConstructObject(StaticFindObject(WBP_Ingame_PlayerGauge_KeyGuide_C_base), FindFirstOf("GameInstance"))
 		WBP_Ingame_PlayerGauge_KeyGuide_C_new:AddToViewport(99)
 		Image_32 = WBP_Ingame_PlayerGauge_KeyGuide_C_new.WBP_PlayerInputKeyGuideIcon_ChangeBallAiming_1.Image_32
 		WBP_Ingame_PlayerGauge_KeyGuide_C_new:SetRenderTranslation({ X = -1570.0, Y = 508.0 })
@@ -43,11 +40,10 @@ function DoHooks()
 	end)
 
 	RegisterHook("/Game/Pal/Blueprint/UI/UserInterface/InGame/TimeZone/WBP_Ingame_TimeZone.WBP_Ingame_TimeZone_C:UpdateTime", function()
-		--local day = timeManager:GetCurrentPalWorldTime_Day()
 		local hour = timeManager:GetCurrentPalWorldTime_Hour()
 		local minute = timeManager:GetCurrentPalWorldTime_Minute()
 
-		if hour < 3 or hour >= 21 then
+		if hour < 3 or hour >= 22 then
 			Image_32:SetBrushResourceObject(nightIcon)
 		else
 			Image_32:SetBrushResourceObject(dayIcon)
@@ -60,9 +56,8 @@ function DoHooks()
 		elseif hour == 0 then
 			hour = 12
 		end
-	
+
 		local time = string.format("%02d:%02d %s", hour, minute, is_am and "AM" or "PM")
-		--WBP_Ingame_PlayerGauge_KeyGuide_C_new.Text_KeyGuide:SetText(FText("Day: " .. day .. "  Time: " .. time))
 		WBP_Ingame_PlayerGauge_KeyGuide_C_new.Text_KeyGuide:SetText(FText("Real: " .. os.date("%I:%M %p", os.time()) .. "  Game: " .. time))
 	end)
 
