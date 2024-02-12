@@ -43,7 +43,7 @@ function DoHooks()
 		local hour = timeManager:GetCurrentPalWorldTime_Hour()
 		local minute = timeManager:GetCurrentPalWorldTime_Minute()
 
-		if hour < 3 or hour >= 22 then
+		if hour < 3 or hour >= 23 then
 			Image_32:SetBrushResourceObject(nightIcon)
 		else
 			Image_32:SetBrushResourceObject(dayIcon)
