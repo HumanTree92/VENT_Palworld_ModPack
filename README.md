@@ -31,10 +31,13 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 * [Black Iron Architecture]( https://www.nexusmods.com/palworld/mods/556 ) - Changes the textures of the Iron to a darker color & removes all the rust brown tone.
 * [Display Time Date]( https://www.nexusmods.com/palworld/mods/558 ) - Displays OS Time & In-Game Time on the Bottom Left.
 * [Enhanced Palworld Visuals]( https://www.nexusmods.com/palworld/mods/1 ) - Disables a few post-processing effects & enabling a few, with an optional increase in the internal resolution of the game.
+* [First Person Mod]( https://www.nexusmods.com/palworld/mods/408 ) - Allows you to look First Person
 * [Map Unlocker]( https://www.nexusmods.com/palworld/mods/16 ) - Removes the Black from the Map but doesn't unlock the Fast Travel Stations.
-* [Pal Analyzer]( https://www.nexusmods.com/palworld/mods/336 ) - Displays info about Pals but looks like it was implement in-game. 
-* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 ) - Displays info about Pals but looks like it wasn't implemented in-game.
-* [Visible Pal Capture Counter]( https://www.nexusmods.com/palworld/mods/190 ) - Shows next to the Pals name how many times it has been captured.
+* [Pal Analyzer]( https://www.nexusmods.com/palworld/mods/336 ) - Displays info about Pals
+
+# List of Optional Mod Controls:
+* [First Person Mod]( https://www.nexusmods.com/palworld/mods/408 ) - Alt + C to Enter First Person & Alt + V to Exit First Person
+* [Pal Analyzer]( https://www.nexusmods.com/palworld/mods/336 ) - Shift + O to Open Config Screen
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
