@@ -5,39 +5,20 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your Steam > steamapps > common > Palworld Directory.
-4) Drag & Drop all the contents of Required into the Palworld Directory.
+4) Drag & Drop all the contents of Drag & Drop into the Palworld Directory.
 6) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
 7) Once you have Exited Palworld relaunch the Game & Join the Server.
 
 # List of Required Mods:
-* [Increased mount speed]( https://www.nexusmods.com/palworld/mods/226 ) - This mod increases the sprint speed of mounts to 3300.
-* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - Max Pals at Base Lvl 20 = 40 & Base Lvl 1-5 = 4 | 6-10 = 6 | 11-15 = 8 | 16-20 = 10
-
-# Download & Installation of Optional Mods:
-1) Download the .zip.
-2) Extract the .zip or Open the .zip.
-3) Go to your Steam > steamapps > common > Palworld Directory.
-4) Drag & Drop all the contents of Optional > UE4SS > Main into the Palworld Directory.
-5) Then Drag & Drop all the Contents of the Seperated Mods into the Palworld Directory.
-	5.1) Example: If wanting to use Basic Minimap open the Basic Minimap Folder & Drag the Pal Folder into the Palworld Directory.
-	5.2) If installing the AutoJoin Script Go to Steam > steamapps > common > Palworld > Pal > Binaries > Win64 > Mods > AutoJoin > Scripts & Edit the main.lua with any .txt Editor & Change the ServerPassword = "PUT_PASSWORD_HERE"
-6) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
-7) Once you have Exited Palworld relaunch the Game & Join the Server.
-
-# List of Optional Mods:
-* [RE-UE4SS 3.0]( https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v3.0.0 ) - Needed to Run Script Mods.
-* [Autojoin Dedicated Server]( https://www.nexusmods.com/palworld/mods/455 ) - Allows automatically joining the VENT Palworld Server just by clicking Join Multiplayer Game.
-* [Basic Minimap]( https://www.nexusmods.com/palworld/mods/146 ) - A Basic Configurable Minimap in the Bottom Right.
-* [Black Iron Architecture]( https://www.nexusmods.com/palworld/mods/556 ) - Changes the textures of the Iron to a darker color & removes all the rust brown tone.
-* [Display Time Date]( https://www.nexusmods.com/palworld/mods/558 ) - Displays OS Time & In-Game Time on the Bottom Left.
-* [Enhanced Palworld Visuals]( https://www.nexusmods.com/palworld/mods/1 ) - Disables a few post-processing effects & enabling a few, with an optional increase in the internal resolution of the game.
-* [First Person Mod]( https://www.nexusmods.com/palworld/mods/408 ) - Allows you to look First Person
-* [Map Unlocker]( https://www.nexusmods.com/palworld/mods/16 ) - Removes the Black from the Map but doesn't unlock the Fast Travel Stations.
-* [Pal Analyzer]( https://www.nexusmods.com/palworld/mods/336 ) - Displays info about Pals
-
-# List of Optional Mod Controls:
-* [First Person Mod]( https://www.nexusmods.com/palworld/mods/408 ) - Alt + C to Enter First Person & Alt + V to Exit First Person
-* [Pal Analyzer]( https://www.nexusmods.com/palworld/mods/336 ) - Shift + O to Open Config Screen
+* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - Max Pals at Base Lvl 25 = 50 & Base Lvl 1-5 = 4 | 6-10 = 6 | 11-15 = 8 | 16-20 = 10 | 21-25 = 12
+* [RE-UE4SS]( https://github.com/UE4SS-RE/RE-UE4SS/releases )
+* [Gantz79 Modular Game Settings Mod]( https://www.nexusmods.com/palworld/mods/836 ) - Unlock Map, 10x Chest, & 2x Base Camp Construction
+* [Display current date time]( https://www.nexusmods.com/palworld/mods/558 )
+* [Mod Config Menu]( https://www.nexusmods.com/palworld/mods/577 )
+* [InhumanityLib]( https://www.nexusmods.com/palworld/mods/1811 )
+* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 )
+* [Pal Egg Info]( https://www.nexusmods.com/palworld/mods/1286 )
+* [Map Collectables Helper 4.1]( https://www.nexusmods.com/palworld/mods/466 )
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
@@ -55,7 +36,7 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 ### License
 VENT_Palworld_ModPack - Mod Pack for Velociti Entertainments Palworld Server.
 
-Copyright (C) 2024 Velociti Entertainment
+Copyright (C) 2025 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
