@@ -10,15 +10,25 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 7) Once you have Exited Palworld relaunch the Game & Join the Server.
 
 # List of Required Mods:
-* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - Max Pals at Base Lvl 25 = 50 & Base Lvl 1-5 = 4 | 6-10 = 6 | 11-15 = 8 | 16-20 = 10 | 21-25 = 12
 * [RE-UE4SS]( https://github.com/UE4SS-RE/RE-UE4SS/releases )
-* [Gantz79 Modular Game Settings Mod]( https://www.nexusmods.com/palworld/mods/836 ) - Unlock Map, 10x Chest, & 2x Base Camp Construction
-* [Display current date time]( https://www.nexusmods.com/palworld/mods/558 )
+* [Increased Base Camp]( https://palworldoptions.com/basecampmod/ ) - Max Pals at Base Lvl 25 = 50 & 10 Bases
+* [Gantz79 Modular Game Settings Mod]( https://www.nexusmods.com/palworld/mods/836 ) - Unlock Map, 10x Chest, 1% Shiny Lucky Pals, & 2x Base Camp Construction
 * [Mod Config Menu]( https://www.nexusmods.com/palworld/mods/577 )
 * [InhumanityLib]( https://www.nexusmods.com/palworld/mods/1811 )
-* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 )
 * [Pal Egg Info]( https://www.nexusmods.com/palworld/mods/1286 )
-* [Map Collectables Helper 4.1]( https://www.nexusmods.com/palworld/mods/466 )
+* [Defeat Raid Bosses for Best Eggs]( https://www.nexusmods.com/palworld/mods/1770 )
+* [Flier Speed Equaliser]( https://www.nexusmods.com/palworld/mods/2039 )
+* [Movement Speed x2 Except Jump]( https://www.nexusmods.com/palworld/mods/983 )
+
+# Download & Installation of Optional Mods:
+1) Drag & Drop all the Contents of the Seperated Mods into the Palworld Directory.
+	1.1) Example: If wanting to use Basic Minimap open the Basic Minimap Folder & Drag the Pal Folder into the Palworld Directory.
+
+# List of Optional Mods:
+* [Shiny Lucky Pals No Sound]( https://www.nexusmods.com/palworld/mods/124 )
+* [Pal Info]( https://www.nexusmods.com/palworld/mods/178 )
+* [Map Collectables Helper]( https://www.nexusmods.com/palworld/mods/466 )
+* [Basic MiniMap]( https://www.nexusmods.com/palworld/mods/146 )
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
