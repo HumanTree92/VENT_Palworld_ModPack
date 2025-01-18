@@ -5,7 +5,7 @@ This is a Mod Pack for Velociti Entertainments Private Palworld Server.
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your Steam > steamapps > common > Palworld Directory.
-4) Drag & Drop all the contents of Drag & Drop into the Palworld Directory.
+4) Drag & Drop all the contents of Required into the Palworld Directory.
 6) Launch Palworld & once at the Main Menu Exit the Game. (This installs the Mods)
 7) Once you have Exited Palworld relaunch the Game & Join the Server.
 
